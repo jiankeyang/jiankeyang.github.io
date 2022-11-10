@@ -9,10 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+I am a first-year PhD student at UC San Diego department of CSE, advised by [Professor Rose Yu](https://roseyu.com/). My current research interest lies in physics-informed machine learning and symmetry discovery with deep learning. I received my Bachelor’s degree in Computer Science at Tsinghua University in 2022.
+
+For more details, see my full [cv](https://drive.google.com/file/d/1vXZikULFCHQ2FBPRDejh4sSYAee8Xlc1/view?usp=sharing). Below is a summary of my past experience.
+
 Education
 ======
-* B.S. in Computer Science and Technology, Tsinghua University, 2022
-* Ph.D in Computer Science, UC San Diego
+* B.S. in Computer Science and Technology, Tsinghua University, 2018-2022
+* Ph.D in Computer Science, UC San Diego, 2022-
 
 Work experience
 ======
