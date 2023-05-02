@@ -2,7 +2,7 @@
 title: "Generative Adversarial Symmetry Discovery"
 collection: publications
 permalink: /publication/LieGAN
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'LieGAN discovers symmetry by learning a Lie algebra basis which is interpretable and can be applied to prediction tasks.'
 date: 2023-02-08
 venue: 'To appear in ICML'
 paperurl: 'https://arxiv.org/pdf/2302.00236.pdf'
