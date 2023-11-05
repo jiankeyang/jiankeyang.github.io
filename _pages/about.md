@@ -11,18 +11,21 @@ redirect_from:
 # (!!) Site under maintenance
 I am modifying the website structure and content right now, so things might appear messy. Will be completed within a day!
 
-## About me
+# About me
 I am a second-year PhD student at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. I was a research intern at NEC Laboratories during 2023 summer, focusing on physics-informed human motion generation. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
 
-## News
+# News
+* October 2023: [Invited talk](https://www.youtube.com/watch?v=veaLPntNw2M) about symmetry discovery at [UMich SciML Webinar](https://micde.umich.edu/news-events/sciml-webinar-series/)!
+* September 2023: [Latent Space Symmetry Discovery](https://arxiv.org/pdf/2310.00105.pdf) available on arXiv!
+* June 2023: Interning at NEC Laboratories Princeton!
+* April 2023: [LieGAN](https://arxiv.org/pdf/2302.00236.pdf) accepted at ICML 2023!
 
-## Publications
+# Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Talks
-
+# Talks
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
