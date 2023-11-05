@@ -6,7 +6,9 @@ excerpt: 'A generative framework for discovering symmetries of nonlinear group a
 date: 2023-09-29
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/pdf/2310.00105.pdf'
+bibtex: LaLiGAN.bib
 citation: 'Jianke Yang, Nima Dehmamy, Robin Walters, and Rose Yu. Latent space symmetry discovery. arXiv preprint arXiv:2310.00105, 2023.'
+authors: '**Jianke Yang**, Nima Dehmamy, Robin Walters, and Rose Yu.'
 ---
 A generative framework for discovering symmetries of nonlinear group actions from data.
 
