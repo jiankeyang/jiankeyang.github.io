@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About me
-I am a second-year PhD student at UC San Diego Department of CSE, advised by [Professor Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. For more details, see my [cv](https://drive.google.com/file/d/1q44W4cmTPSJ-un6kSR47AQAZX7uVgNTa/view?usp=share_link).
+I am a second-year PhD student at UC San Diego Department of CSE, advised by [Professor Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
 
 # News
 
