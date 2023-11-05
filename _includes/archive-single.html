@@ -18,7 +18,7 @@
 <!--     {% if teaser %} -->
       <div class="archive__item-teaser">
         <img src=
-            "{{ teaser | prepend: '/images/' | prepend: base_path }}"
+            "{{base_path}}/images/{{post.header.teaser}}"
           alt="">
       </div>
 <!--     {% endif %} -->
