@@ -17,7 +17,8 @@
   {% if post.video %}
     <a href="{{ post.video }}" target="_blank" rel="noopener noreferrer">Video</a>
   {% endif %}
+  {% if post.video and post.slides %}&nbsp;|&nbsp;{% endif %}
   {% if post.slides %}
-    | <a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
+    <a href="{{ post.slides }}" target="_blank" rel="noopener noreferrer">Slides</a>
   {% endif %}
 </li>
