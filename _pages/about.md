@@ -20,6 +20,16 @@ I am a second-year PhD student at UC San Diego Department of CSE, advised by [Pr
 * June 2023: Interning at NEC Laboratories Princeton!
 * April 2023: [LieGAN](https://arxiv.org/pdf/2302.00236.pdf) accepted at ICML 2023!
 
+# Experiences
+**[NEC Laboratories](https://www.nec-labs.com/)** | Princeton, NJ
+* (06/2023 - 09/2023) **Research Intern**
+    * Diffusion model for 3D human motion generation
+    * Incorporate physics simulator into training to perform physically valid generation
+ 
+**[USC Melady Lab](https://melady.usc.edu/)** | Los Angeles, CA
+* (06/2021 - 09/2021) **Research Assistant**
+    * Federated learning under distribution shift
+
 # Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
