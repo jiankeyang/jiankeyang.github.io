@@ -17,6 +17,9 @@ I am a second-year PhD student at UC San Diego Department of CSE, advised by [Pr
 ## News
 
 ## Publications
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Talks
 
