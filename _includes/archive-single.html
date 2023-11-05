@@ -14,7 +14,8 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
+<!--     {% if include.type == "grid" and teaser %} -->
+    {% if teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if teaser contains "://" %}
@@ -27,8 +28,8 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ title }}</a>
 <!--         <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> -->
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -67,10 +68,16 @@
         <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">Paper</a>
       {% endif %}
       {% if post.codeurl %}
-        |<a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>
+        | <a href="{{ post.codeurl }}" target="_blank" rel="noopener noreferrer">Code</a>
       {% endif %}
       {% if post.bibtex %}
-        <a href="{{ base_path }}/files/{{ post.bibtex }}" target="_blank" rel="noopener noreferrer">BibTeX</a>
+        | <a href="{{ base_path }}/files/{{ post.bibtex }}" target="_blank" rel="noopener noreferrer">BibTeX</a>
+      {% endif %}
+      {% if post.poster %}
+        | <a href="{{ base_path }}/files/{{ post.poster }}" target="_blank" rel="noopener noreferrer">BibTeX</a>
+      {% endif %}
+      {% if post.slides %}
+        | <a href="{{ base_path }}/files/{{ post.slides }}" target="_blank" rel="noopener noreferrer">BibTeX</a>
       {% endif %}
     </p>
 
