@@ -11,7 +11,7 @@ bibtex: SIGED.bib
 citation: 'Jianke Yang, Wang Rao, Nima Dehmamy, Robin Walters, and Rose Yu. Symmetry-informed governing equation discovery. Neural Information Processing Systems, 2024.'
 authors: '**Jianke Yang**, Wang Rao, Nima Dehmamy, Robin Walters, and Rose Yu.'
 header:
-  teaser: SIGED.pdf
+  teaser: SIGED.png
 ---
 Incorporate symmetry into symbolic regression.
 
