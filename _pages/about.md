@@ -9,15 +9,27 @@ redirect_from:
 ---
 
 # About me
-I am a second-year PhD student at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. I was a research intern at NEC Laboratories during 2023 summer, focusing on physics-informed human motion generation. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
+I am a third-year PhD student at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. I was a research intern at Bytedance during 2024 summer and, prior to that, a research intern at NEC Laboratories during 2023 summer. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
 
 # News
-* October 2023: [Invited talk](https://www.youtube.com/watch?v=veaLPntNw2M) about symmetry discovery at [UMich SciML Webinar](https://micde.umich.edu/news-events/sciml-webinar-series/)!
-* September 2023: [Latent Space Symmetry Discovery](https://arxiv.org/pdf/2310.00105.pdf) available on arXiv!
-* June 2023: Interning at NEC Laboratories Princeton!
+* Mar 2025: Invited talk at [Boston Symmetry Day](https://bostonsymmetry.github.io/)
+* Nov 2024: [Invited talk](http://cogsys.org/symposium/discovery-2024/abstracts/FSS-24_Abstract_125.pdf) about symmetry and equation discovery at [AAAI Fall Symposium](http://cogsys.org/symposium/discovery-2024/schedule.html)
+* September 2024: [Symmetry-Informed Governing Equation Discovery](https://arxiv.org/pdf/2405.16756) accepted at NeurIPS 2024!
+* April 2024: [Latent Space Symmetry Discovery](https://arxiv.org/pdf/2310.00105.pdf) accepted at ICML 2024!
+* October 2023: [Invited talk](https://www.youtube.com/watch?v=veaLPntNw2M) about symmetry discovery at [UMich SciML Webinar](https://micde.umich.edu/news-events/sciml-webinar-series/)
+* June 2023: Interning at NEC Laboratories Princeton
 * April 2023: [LieGAN](https://arxiv.org/pdf/2302.00236.pdf) accepted at ICML 2023!
 
+# Publications
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 # Experiences
+**[Bytedance](https://www.bytedance.com/en/)** | San Jose, CA
+* (06/2024 - 09/2024) **Research Intern**
+    * Latent diffusion model for protein dynamics generation
+
 **[NEC Laboratories](https://www.nec-labs.com/)** | Princeton, NJ
 * (06/2023 - 09/2023) **Research Intern**
     * Diffusion model for 3D human motion generation
@@ -26,11 +38,6 @@ I am a second-year PhD student at UC San Diego Department of CSE, advised by [Pr
 **[USC Melady Lab](https://melady.usc.edu/)** | Los Angeles, CA
 * (06/2021 - 09/2021) **Research Assistant**
     * Federated learning under distribution shift
-
-# Publications
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 # Talks
 <ul>
