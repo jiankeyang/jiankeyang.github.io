@@ -7,6 +7,7 @@ date: 2023-09-29
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/pdf/2310.00105.pdf'
 workshoppaperurl: 'https://openreview.net/pdf?id=z3SHey9hK1'
+codeurl: 'https://github.com/Rose-STL-Lab/LaLiGAN'
 bibtex: LaLiGAN.bib
 citation: 'Jianke Yang, Nima Dehmamy, Robin Walters, and Rose Yu. Latent space symmetry discovery. International Conference on Machine Learning, 2024.'
 authors: '**Jianke Yang**, Nima Dehmamy, Robin Walters, and Rose Yu.'
