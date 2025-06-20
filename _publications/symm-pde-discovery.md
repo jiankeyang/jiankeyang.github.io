@@ -9,7 +9,7 @@ paperurl: 'https://arxiv.org/pdf/2505.12083'
 bibtex: symm-pde-discovery.bib
 authors: '**Jianke Yang**, Manu Bhat, Bryan Hu, Yadi Cao, Nima Dehmamy, Robin Walters, and Rose Yu.'
 header:
-  teaser: SIGED.png
+  teaser: symm-pde-discovery.png
 ---
 Incorporate symmetry into PDE discovery.
 
