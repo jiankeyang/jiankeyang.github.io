@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 # About me
-I am a third-year PhD student at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in generative AI, physics-guided deep learning, and geometric deep learning. I am particularly excited about machine learning methods for scientific discovery, such as symmetry discovery and governing equation discovery. I was a research intern at Bytedance during 2024 summer and, prior to that, a research intern at NEC Laboratories during 2023 summer. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
+I am a fourth-year PhD candidate at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in AI for scientific discovery, generative AI, and geometric deep learning. I am particularly excited about machine learning methods for discovering governing laws in physical sciences, such as symmetry discovery and governing equation discovery. I was a research intern at Bytedance during 2024 summer and, prior to that, a research intern at NEC Laboratories during 2023 summer. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
 
 # News
+* Apr 2025: Our work on symmetry discovery reported on [Quanta Magazine](https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/)!
 * Mar 2025: Invited talk at [Boston Symmetry Day](https://bostonsymmetry.github.io/)
 * Nov 2024: [Invited talk](http://cogsys.org/symposium/discovery-2024/abstracts/FSS-24_Abstract_125.pdf) about symmetry and equation discovery at [AAAI Fall Symposium](http://cogsys.org/symposium/discovery-2024/schedule.html)
 * September 2024: [Symmetry-Informed Governing Equation Discovery](https://arxiv.org/pdf/2405.16756) accepted at NeurIPS 2024!
