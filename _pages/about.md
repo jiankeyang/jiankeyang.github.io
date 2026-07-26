@@ -28,7 +28,7 @@ I am a fourth-year PhD candidate at UC San Diego Department of CSE, advised by [
 
 # Experiences
 **Citadel Securities** | Miami, FL
-* (06/2026 - 08/2026) ** Quantitative Research Intern**
+* (06/2026 - 08/2026) **Quantitative Research Intern**
     * Model architecture research for large-scale financial data
 
 **[Bytedance](https://www.bytedance.com/en/)** | San Jose, CA
