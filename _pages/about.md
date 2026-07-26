@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 # About me
-I am a fourth-year PhD candidate at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in AI for scientific discovery, generative AI, and geometric deep learning. I am particularly excited about machine learning methods for discovering governing laws in physical sciences, such as symmetry discovery and governing equation discovery. I was a research intern at Bytedance during 2024 summer and, prior to that, a research intern at NEC Laboratories during 2023 summer. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
+I am a fourth-year PhD candidate at UC San Diego Department of CSE, advised by [Prof. Rose Yu](https://roseyu.com/). My current research interest lies in AI for scientific discovery, generative AI, and geometric deep learning. I am particularly excited about machine learning methods for discovering governing laws in physical sciences, such as symmetry discovery and governing equation discovery. I was a research intern at ByteDance during 2024 summer and, before that, a research intern at NEC Laboratories during 2023 summer. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
 
 # News
-* Mar 2026: Our work on [symmetry-invariant-based symbolic regression](https://openreview.net/pdf?id=9t1dEyYfPc) was accepted by TMLR with *Featured Certification*!
+* May 2026: I was awarded **Doctoral Award for Excellence in Research** from UCSD Department of CSE!
+* Mar 2026: Our work on [symmetry-invariant-based symbolic regression](https://openreview.net/pdf?id=9t1dEyYfPc) was accepted by TMLR with **Featured Certification**!
 * Apr 2025: Our work on symmetry discovery was reported on [Quanta Magazine](https://www.quantamagazine.org/improving-deep-learning-with-a-little-help-from-physics-20250423/)!
+* Apr 2025: [AtlasD](https://openreview.net/pdf?id=aLDAu7QDw0) accepted at ICML 2025!
 * Mar 2025: Invited talk at [Boston Symmetry Day](https://bostonsymmetry.github.io/)
 * Nov 2024: [Invited talk](http://cogsys.org/symposium/discovery-2024/abstracts/FSS-24_Abstract_125.pdf) about symmetry and equation discovery at [AAAI Fall Symposium](http://cogsys.org/symposium/discovery-2024/schedule.html)
 * September 2024: [Symmetry-Informed Governing Equation Discovery](https://arxiv.org/pdf/2405.16756) accepted at NeurIPS 2024!
 * April 2024: [Latent Space Symmetry Discovery](https://arxiv.org/pdf/2310.00105.pdf) accepted at ICML 2024!
-* October 2023: [Invited talk](https://www.youtube.com/watch?v=veaLPntNw2M) about symmetry discovery at [UMich SciML Webinar](https://micde.umich.edu/news-events/sciml-webinar-series/)
-* June 2023: Interning at NEC Laboratories Princeton
-* April 2023: [LieGAN](https://arxiv.org/pdf/2302.00236.pdf) accepted at ICML 2023!
 
 # Publications
 {% for post in site.publications reversed %}
@@ -28,6 +27,10 @@ I am a fourth-year PhD candidate at UC San Diego Department of CSE, advised by [
 {% endfor %}
 
 # Experiences
+**Citadel Securities** | Miami, FL
+* (06/2026 - 08/2026) ** Quantitative Research Intern**
+    * Model architecture research for large-scale financial data
+
 **[Bytedance](https://www.bytedance.com/en/)** | San Jose, CA
 * (06/2024 - 09/2024) **Research Intern**
     * Latent diffusion model for protein dynamics generation
