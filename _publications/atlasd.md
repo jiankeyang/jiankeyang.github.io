@@ -11,7 +11,7 @@ bibtex: atlasd.bib
 citation: 'Manu Bhat, Jonghyun Park, Jianke Yang, Nima Dehmamy, Robin Walters, and Rose Yu. AtlasD: Automatic Local Symmetry Discovery. International Conference on Machine Learning, 2025.'
 authors: 'Manu Bhat, Jonghyun Park, **Jianke Yang**, Nima Dehmamy, Robin Walters, Rose Yu.'
 header:
-  teaser: atlasd.jpg
+  teaser: atlasd.png
 ---
 AtlasD discovers symmetries local to a subdomain.
 
